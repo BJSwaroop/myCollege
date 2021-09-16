@@ -14,6 +14,7 @@ body{
   text-align: center;
   background-color: black;
   color: white;
+  position: fixed;
 }
 
 h1{
@@ -23,6 +24,8 @@ h2{
   font-size: 5rem;
 }
 .subjects{
+  margin-top: 35rem;
+
   display: flex;
   width: 80%;
   flex-direction: column;
@@ -43,7 +46,7 @@ h2{
 }
 a{
   text-decoration: none;
-  
+
 }
 .chapters a{
   font-size: 3rem;
